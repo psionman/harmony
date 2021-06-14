@@ -1,6 +1,6 @@
 # Dietry Analysis
 
-Dietry analysis is based upon a Workbook that allows you to enter details of a recipe or meal, and to see the quqntiry of key nutritional variables that it contains.
+Dietry analysis is based upon a Workbook that allows you to enter details of a recipe or meal, and to see the quantity of key nutritional variables that it contains.
 
 The workbook contains a number of worksheets where common foodstuffs are collected under headings; for example, *Meat,Fish,Poultry,Eggs* and *Principal Salad_Raw Veg*.
 

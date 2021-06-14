@@ -8,7 +8,7 @@ Open the workbook and enter quantity (in grams or, in the case of condiments, in
 
 <img src="_images/worksheet01.png" alt="worksheet01" width="700">
 
-## Acessing the Analysis file menu
+## Accessing the Analysis file menu
 
 When you  have entered all of the items for your recipe or meal you are able to get an analysis that summarises all of the items. To do this, go to the [Harmony Life Plan web site]<https://www.harmonylifeplan.com/>, navigate to *Your Harmony* and log in. In the *Your Harmony* page you will see a menu item (link) for *Process analysis file*. 
 

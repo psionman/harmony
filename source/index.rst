@@ -7,3 +7,4 @@ Harmony's documentation!
    :caption: Contents:
 
    introduction
+   analysis

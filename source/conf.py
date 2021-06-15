@@ -22,7 +22,6 @@ project = 'Harmony User'
 copyright = '2021, Jeff Watkins'
 author = 'Jeff Watkins'
 release = version_string
-html_favicon = 'favicon.ico'
 
 
 # -- General configuration ---------------------------------------------------

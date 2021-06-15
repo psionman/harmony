@@ -1,3 +1,3 @@
 # Introduction
 
-Welcome to harmony Life plan
+Welcome to harmony Life plan.

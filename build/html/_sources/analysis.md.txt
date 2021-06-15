@@ -10,7 +10,7 @@ Open the workbook and enter quantity (in grams or, in the case of condiments, in
 
 ## Accessing the Analysis file menu
 
-When you  have entered all of the items for your recipe or meal you are able to get an analysis that summarises all of the items. To do this, go to the [Harmony Life Plan web site]<https://www.harmonylifeplan.com/>, navigate to *Your Harmony* and log in. In the *Your Harmony* page you will see a menu item (link) for *Process analysis file*. 
+When you  have entered all of the items for your recipe or meal you are able to get an analysis that summarises all of the items. To do this, go to the [Harmony Life Plan web site]<https://www.harmonylifeplan.com/>, navigate to *Your Harmony* and log in. In the *Your Harmony* page you will see a menu item (link) for *Process analysis file*.
 
 <img src="_images/analysis_link.png" alt="analysis_link" width="700">
 
@@ -24,7 +24,7 @@ In the *Analysis file menu*, click on the *Upload analysis file* link. This will
 
 <img src="_images/upload_file.png" alt="upload_file" width="700">
 
-Click on the *Choose file* and a system file chooser will open for you. Navigate to the file that you want and  double-click on it or click on the *Open* button. The file name will appear. If all is correct, click on the *Upload file* button. If the file is uploaded successfully, you will see a confirmatory message. 
+Click on the *Choose file* and a system file chooser will open for you. Navigate to the file that you want and  double-click on it or click on the *Open* button. The file name will appear. If all is correct, click on the *Upload file* button. If the file is uploaded successfully, you will see a confirmatory message.
 
 <img src="_images/file_uploaded.png" alt="file_uploaded" width="700">
 
@@ -46,7 +46,7 @@ This will download the workbook *analysis.xlsx* to your download folder. You may
 
 ## Resetting the Workbook entries to zero
 
-If you want to perform another analysis using the same workbook, you are able to reset all of the entires you made to zero. Make sure that the workbook that you wish to reset is uploaded (see [Uploading the Analysis file](#uploading-the-analysis-file) above).
+If you want to perform another analysis using the same workbook, you are able to reset all of the entries you made to zero. Make sure that the workbook that you wish to reset is uploaded (see [Uploading the Analysis file](#uploading-the-analysis-file) above).
 
 Select *Set quantities to zero* from the *Analysis file menu*. Click on the *Process* button. If all is correct, you will see a confirmatory message and a *download* link. This will download the workbook *analysis.xlsx* to your download folder. You may copy it or rename it to a place of your choosing. The workbook will now contain no user data and you may use it to perform another analysis.
 
